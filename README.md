@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aghildev
 - 👀 I’m interested in web app development...
-- 🌱 I’m currently learning React js..
+- 🌱 I’m currently learning Machine learning..
 - 💞️ I’m looking to collaborate on youtube..
 - 📫 How to reach me aghilpwilson1994@gmail.com..
 
