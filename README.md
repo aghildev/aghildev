@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Machine learning..
 - 💞️ I’m looking to collaborate on youtube..
 - 📫 How to reach me aghilpwilson1994@gmail.com..
+- in love with MERN stack 
 
 
 <!---
