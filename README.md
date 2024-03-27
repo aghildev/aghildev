@@ -8,6 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/@aghil_wilson" target="blank"><img src="https://img.shields.io/twitter/follow/@aghil_wilson?logo=twitter&style=for-the-badge" alt="@aghil_wilson" /></a> </p>
 
+
+<!--  PROFILE VISIT COUNTER  -->
+  <tr>
+   <p align="top"> <img src="https://komarev.com/ghpvc/?username=lassiecoder&label=Profile%20views&color=36363b&style=flat" alt="lassiecoder" /></p>
+  </tr>
+
+<!--  PROFILE HEADER RHS IMAGE  -->
+<picture>
+  <img src="https://github.com/lassiecoder/lassiecoder/assets/17312616/2ae4d51a-1aae-45b9-86ae-75d01eb6e446" align="right" width="35%" alt="Image">
+</picture>
+
 - 🌱 I’m currently learning **Typescript**
 
 - 💬 Ask me about **Javascript**
